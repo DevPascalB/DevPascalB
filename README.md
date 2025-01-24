@@ -19,7 +19,7 @@ Besuche mein Portfolio:
 ## 📬 Kontakt
 
 - LinkedIn: [Pascal Baumgardt](https://www.linkedin.com/in/pascal-baumgardt-861b11294/)
-- E-Mail: [Schicke mir eine E-Mail](mailto:baumgardtpascal4@gmail.com)
+  [Schicke mir eine E-Mail](mailto:baumgardtpascal4@gmail.com)
 
 ---
 
