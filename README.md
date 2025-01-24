@@ -8,7 +8,7 @@ Ich bin Pascal, 19 Jahre alt, und entwickle mich als Junior Web-Developer. Hier 
 Ich arbeite mit **HTML**, **CSS** und **JavaScript** und bin ständig auf der Suche nach neuen Herausforderungen.
 
 Besuche mein Portfolio:  
-🌐 [devpascalb.github.io/portfolio](https://devpascalb.github.io/portfolio/)
+🌐 [Portfolio](https://devpascalb.github.io/portfolio/)
 
 ## 🔧 Technologien, mit denen ich arbeite:
 - **HTML**
