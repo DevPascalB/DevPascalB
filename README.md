@@ -1,6 +1,6 @@
 # 👨‍💻 Pascal Baumgardt | Junior Web Developer
 
-Willkommen auf meinem GitHub-Profil! 🎉  
+Willkommen auf meinem GitHub-Profil!  
 Ich bin Pascal, 19 Jahre alt, und entwickle mich als Junior Web-Developer. Hier findest du meine Projekte, die meine Reise in der Web-Entwicklung widerspiegeln.
 
 ## 🚀 Meine Projekte
