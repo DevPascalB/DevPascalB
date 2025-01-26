@@ -13,6 +13,8 @@ Besuche doch gerne mein [Portfolio](https://devpascalb.github.io/portfolio/).
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Java**
+- **MySQL**
 - **Git & GitHub**
 
 ## 📬 Kontakt
